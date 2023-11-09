@@ -1,7 +1,17 @@
-Automated water pumps plays a vital role in the reduction and efficiency of water scarcity and water management respectively, leveraging on the systematic approach of the iterative waterfall model for the dengn and development of this automated pump is an innovative approach to reduce the risk of defect on the design and maximize its productivity. The ultrasonic sensor sends distances to the arduino board in the form of varying electrical signals that will in tum control the submersible pump by triggering the relay or a command can be sent through the BT terminal app Through rigorous testing and evaluation, this work has shown the capabilities and limitation of this automated water pump switch. This study contributes to the advancement of technology in the area of water management and thus offering potential applications in residential and commercial buildings and also implicitly encouraging embedded system developers to leverage on the different approaches that could be used to model the analysis, design and implementation of embedded products.
+Automated water pumps plays a vital role in the reduction and efficiency of water scarcity and water management respectively,
+leveraging on the systematic approach of the iterative waterfall model for the dengn and development of this automated pump is
+ an innovative approach to reduce the risk of defect on the design and maximize its productivity. The ultrasonic sensor sends
+ distances to the arduino board in the form of varying electrical signals that will in tum control the submersible pump by
+ triggering the relay or a command can be sent through the BT terminal app Through rigorous testing and evaluation, this work
+ has shown the capabilities and limitation of this automated water pump switch. This study contributes to the advancement of
+ technology in the area of water management and thus offering potential applications in residential and commercial buildings 
+ and also implicitly encouraging embedded system developers to leverage on the different approaches that could be used to model
+ the analysis, design and implementation of embedded products.
 
 # Automated-water-pump-switch
 This code is for programming to Arduino microcontroller to automate water pumps
+
+
 #define echo 3
 #define trig 2
 #define RED 8
